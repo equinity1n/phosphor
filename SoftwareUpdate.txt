@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
