@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
