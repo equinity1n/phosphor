@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Faster batch same_shapes (#8851)
